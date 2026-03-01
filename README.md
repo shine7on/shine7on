@@ -10,9 +10,13 @@
 </div>
 
 
-- 🔭 I’m currently working on [shelter matching app](https://github.com/shine7on/shelter-matching)
+- 🔭 I’m currently working on [IoT Smart Feeder System](https://github.com/shine7on/smart-feeder)
+  
+- 📖 I’m currently taking on [Odin Project Fundation Course](https://github.com/shine7on/Odin-Project)
 
-- 🌱 I’m currently learning **TypeScripts, Fusion360**!
+- 🌱 I’m currently learning **JavaScripts, Fusion360**!
+
+- 🔗 [My Portfolio](https://shinon-portfolio.vercel.app/).
 
 <p align="left">
 </p>
