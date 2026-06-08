@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on Shelter Website, [IoT Smart Feeder System](https://github.com/shine7on/smart-feeder)
   
-- 📖 I’m currently taking on [React YouTube Tutorial](https://youtu.be/32nwU4Gd8qE?si=-Dmlh0M5Ra2ZPoHy)
+- 📖 I’m currently taking on Codepath AI201, WEB102, and TIP102.
 
-- ✅ Done: [Odin Project Fundation Course](https://github.com/shine7on/Odin-Project)
+- ✅ Done: [Odin Project Fundation Course](https://github.com/shine7on/Odin-Project), [React YouTube Tutorial](https://youtu.be/32nwU4Gd8qE?si=-Dmlh0M5Ra2ZPoHy)
 
 - 🌱 I’m currently learning **JavaScripts, React, Django, Fusion360**!
 
